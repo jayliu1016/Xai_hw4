@@ -3,7 +3,8 @@
 
 **Author:** Jay Liu  
 **Repository:** [jayliu1016/Xai_hw4](https://github.com/jayliu1016/Xai_hw4)  
-**Google Colab Notebook:** [Open in Colab →](https://colab.research.google.com/github/jayliu1016/Xai_hw4/blob/main/notebook1.ipynb)
+**Google Colab Notebook:** [Open in Colab →](https://colab.research.google.com/drive/169tI8EK_7vODVWNIoyDaTgMQ45iFc7Mw#scrollTo=t4XsEAxfSLCT)
+
 
 ---
 ( The readme was paraphrased and structured by GPT5 at 10:50 p.m. on Oct 5th for better reading purpose.)
